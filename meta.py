@@ -15,3 +15,17 @@ def meta():
         loop += 1
         
 meta()
+
+"""
+Terminal: python3.5 %path_to_file% META
+Output:
+M E T A 
+
+E
+
+T
+
+A
+
+
+"""
