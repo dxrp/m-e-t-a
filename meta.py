@@ -1,7 +1,6 @@
 import sys
 
 def meta():
-
     loop = 0
     string = sys.argv[1]   
     for c in string:
